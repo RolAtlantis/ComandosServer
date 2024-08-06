@@ -1,1 +1,43 @@
-# ComandosServer
+---
+
+**Resumen de Comandos de Jugador**
+
+- `anuncio`: Publica un anuncio en el servidor.
+- `auxilio`: Solicita ayuda a los EMS en el servidor.
+- `ayuda`: Escribe por este chat para pedir ayuda al staff o a otro usuario para preguntar dudas puntuales.
+- `bowlingleave`: Sal de una partida de bolos.
+- `clear`: Limpia todos los mensajes del chat (usuario).
+- `comprobarsociedad`: Verifica el dinero en la cuenta bancaria de la sociedad (jefes de negocio).
+- `dados`: Juega a los dados.
+- `do`: Realiza una acción en el juego.
+- `dos`: Realiza una acción en el juego (anónimo)
+- `drift`: Activa el modo de derrape para el vehículo.
+- `e`: Ejecuta una animación específica.
+- `emotemenu`: Muestra el menú de emotes.
+- `entorno`: Para enviar un entorno a la policía del servidor.
+- `gang`: Gestiona las funciones relacionadas con las bandas.
+- `garagemenu`: Muestra el menú de la garaje.
+- `getintrunk`: Obtiene un objeto del maletero de un vehículo.
+- `givekeys`: Da llaves de coche a un jugador.
+- `id`: Muestra tu ID del jugador.
+- `job`: Comprueba tu trabajo.
+- `mdv`: Elimina un vehículo del mapa (mecánicos, policía, EMS).
+- `me`: Realiza una acción en tercera persona.
+- `mes`: Comando para enviar mensajes en el chat.
+- `msg`: Envia un mensaje privado a la ID seleccionada.
+- `ooc`: Muestra mensajes fuera del personaje.
+- `parking`: Comprueba en qué garaje está estacionado tu coche.
+- `pedirid`: Solicita el ID de un jugador.
+- `prestaciones`: Muestra las prestaciones instaladas en el vehículo.
+- `putintrunk`: Coloca a alguien en el maletero de un vehículo.
+- `quit`: Sale del servidor.
+- `resetparachute`: Restablece el paracaídas del jugador.
+- `rprops`: Borra los props que se quedan pegados al personaje por error (como el rskin pero solo recarga los props)
+- `rskin`: Recarga la skin del jugador.
+- `suerte`: Comando para probar suerte.
+- `uniformes`: Gestiona los uniformes en el servidor.
+- `uniformesg`: Gestiona los uniformes de una banda.
+- `walk`: Selecciona forma de caminar del personaje.
+- `walks`: Muestra las opciones de caminar.
+
+---
