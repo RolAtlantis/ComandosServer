@@ -1,5 +1,3 @@
----
-
 **Resumen de Comandos de Jugador**
 
 - `anuncio`: Publica un anuncio en el servidor.
@@ -39,5 +37,3 @@
 - `uniformesg`: Gestiona los uniformes de una banda.
 - `walk`: Selecciona forma de caminar del personaje.
 - `walks`: Muestra las opciones de caminar.
-
----
