@@ -20,7 +20,6 @@
 - `dos`: Para usar el comando DO en anónimo (no abusar).
 - `e`: Prefijo para usar un emote
 - `id`: Muestra el ID del jugador.
-- `me`: Realiza una acción en tercera persona.
 - `pedirid`: Solicita el ID de un jugador.
 - `rskin`: Recarga la skin de tu personaje (por si se te queda bug)
 - `uniformes`: Gestiona tu uniforme de trabajo
