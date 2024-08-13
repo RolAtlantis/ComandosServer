@@ -22,14 +22,15 @@
 - `id`: Muestra el ID del jugador.
 - `pedirid`: Solicita el ID de un jugador.
 - `rskin`: Recarga la skin de tu personaje (por si se te queda bug)
-- `uniformes`: Gestiona tu uniforme de trabajo
-- `uniformesg`: Gestiona los uniformes de tu empresa.
 - `entorno`: Manda un aviso a la LSPD.
 - `auxilio`: Abre el menú para solicitar asistencia médica.
+- `ct`: Manda un entorno automático de conducción temeraria.
 
 ## Economía y Negocios
 - `comprobarsociedad`: Verifica el estado de la sociedad (solo jefe empresa)
 - `myfinance`: Para comp0robar los pagos pendientes e hipotecas de tu personaje.
+- `uniformes`: Gestiona tu uniforme de trabajo
+- `uniformesg`: Gestiona los uniformes de tu empresa.
 
 ## Ropa
 - `shirt`: Alterna en quitar/poner camisa/top/chaqueta.
@@ -50,3 +51,7 @@
 - `suerte`: Ejecuta el comando de suerte que da dos posibles resultados bien/mal.
 - `walk`: Para definir el estilo de caminar de tu personaje.
 - `houseMenu`: Abrir el menú de gestión de tu vivienda.
+- `modocine`: Abre el modo foto.
+- `report`: Abre el menú para contactar con un staff dentro del servidor.
+- `reditor`: Abre el Rockstar Editor.
+- `grabar`: Opciones del RE. Formato: `grabar empezar/parar/cancelar`
