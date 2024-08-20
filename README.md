@@ -25,6 +25,7 @@
 - `entorno`: Manda un aviso a la LSPD.
 - `auxilio`: Abre el menú para solicitar asistencia médica.
 - `ct`: Manda un entorno automático de conducción temeraria.
+- `ambulancia`: Llama a la ambulancia de guardia si no hay EMS de servicio. No se puede usar en zonas SIN entorno.
 
 ## Economía y Negocios
 - `comprobarsociedad`: Verifica el estado de la sociedad (solo jefe empresa)
