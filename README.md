@@ -29,7 +29,7 @@
 
 ## Economía y Negocios
 - `comprobarsociedad`: Verifica el estado de la sociedad (solo jefe empresa)
-- `myfinance`: Para comp0robar los pagos pendientes e hipotecas de tu personaje.
+- `financiaciones`: Para comprobar los pagos pendientes e hipotecas de tu personaje.
 - `uniformes`: Gestiona tu uniforme de trabajo
 - `uniformesg`: Gestiona los uniformes de tu empresa.
 
