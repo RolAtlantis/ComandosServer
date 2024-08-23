@@ -53,6 +53,8 @@
 - `walk`: Para definir el estilo de caminar de tu personaje.
 - `houseMenu`: Abrir el menú de gestión de tu vivienda.
 - `modocine`: Abre el modo foto.
+- `rskin`: Recarga la skin de tu personaje.
+- `rprops`: Elimina los props que se hayan quedado adheridos al personaje.
 - `report`: Abre el menú para contactar con un staff dentro del servidor.
 - `reditor`: Abre el Rockstar Editor.
 - `grabar`: Opciones del RE. Formato: `grabar empezar/parar/cancelar`
